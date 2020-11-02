@@ -5,6 +5,6 @@ public class number2 {
         System.out.println("Happy cucumber!!!!!!1");
         System.out.println(".........abcdefghds");
 
-
+        System.out.println("ok2");
     }
 }
