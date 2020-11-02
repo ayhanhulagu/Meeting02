@@ -3,5 +3,6 @@ public class Number4 {
         System.out.println("This is line");
 
         System.out.println("This is not line");
+        System.out.println("Life is good");
     }
 }
