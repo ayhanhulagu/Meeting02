@@ -12,6 +12,8 @@ public class Number4 {
         System.out.println("O");
         System.out.println("O");
         System.out.println("L");
+      
+  
 
     }
 }
