@@ -3,7 +3,8 @@ public class number2 {
 
         System.out.println("Bye bye selenium");
         System.out.println("Happy cucumber!");
-        System.out.println("........");
+        System.out.println(".........");
+
 
     }
 }
